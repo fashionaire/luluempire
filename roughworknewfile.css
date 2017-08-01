@@ -1,0 +1,65 @@
+
+#container
+     {
+     	width: 1500px;
+     	height: 1200px;
+     }
+     #header
+     {  width: 1500px;
+     	height: 200px;
+     	border: 1px solid white;
+     	background-color :seagreen;
+      color: white;
+
+     }
+     #a
+     {
+
+     font-family: tahoma;
+     	font-style: 14px;
+     	color: white;
+      }
+      #b
+      {
+      	color: red;
+      	font-size: 15px;
+      }
+      #content
+      {
+      	width: 1500px;
+      	height: 900px;
+
+}
+     #sidebar
+     {  width: 500px;
+     	height: 900px;
+     	border: 1px seagreen;
+     	background-color :white;   
+      
+
+
+     	}
+     #mainbar
+     {  width: 1000px;
+     	height: 900px;
+     	border: 1px solid green;
+     	background-color :white;
+     	float: right; 
+
+     	}
+     #footer
+
+     {  width: 1500px;
+      height: 200px;
+      border: 1px solid white;
+      background-color :seagreen;
+      color: white;
+      background-image: y9
+
+      
+
+      }
+     #a
+     {
+
+     

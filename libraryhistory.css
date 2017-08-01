@@ -1,0 +1,34 @@
+
+#historycontainer
+{
+		width: 100%;
+     	height: 100%;
+     	
+}
+#historysidebar
+{
+	color: teal;
+	width: 60%;
+     height: 100%;
+     font-size: 20px;
+
+}
+#historymainbar
+{
+	width: 25%;
+	height: 100%;
+	color: teal;
+	float: right;
+	font-size: 20px;
+}
+#historymissionheader
+{
+	color: teal;
+	font-size: 20px;
+
+}
+#historyvisionheader
+{
+	color: teal;
+	font-size: 20px;
+}
